@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-flax-chi-53.vercel.app/api?username=Dimar-I-T&show_icons=true&theme=transparent&hide_rank=true" alt="Dimar's GitHub stats" />
+  <img src="https://github-readme-stats-flax-chi-53.vercel.app/api?username=Dimar-I-T&show_icons=true&theme=transparent&hide_rank=true&hide=stars,issues" alt="Dimar's GitHub stats" />
 </p>
 
 <p align="center">
