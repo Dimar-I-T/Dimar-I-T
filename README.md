@@ -1,1 +1,1 @@
-[![Dimar's Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Dimar-I-T)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimar-I-T&layout=donut&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
