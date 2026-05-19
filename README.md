@@ -47,3 +47,7 @@
     <img src="https://github-readme-stats-flax-chi-53.vercel.app/api/top-langs/?username=Dimar-I-T&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=transparent" alt="Top Langs" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dimar-I-T&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
