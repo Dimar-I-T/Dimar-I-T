@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dimar Ilham Tamara</h1>
+<h1 align="center">Hi, I'm Dimar Ilham Tamara</h1>
 <h3 align="center">I'm a student at University of Indonesia majoring in Computer Engineering. I have a huge passion in the field of technology, especially in software.</h3>
 
-- 📫 How to reach me **dimartamara1@gmail.com**
+- How to reach me **dimartamara1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
